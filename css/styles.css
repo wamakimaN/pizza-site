@@ -1,9 +1,8 @@
 nav{
-  background-color: brown;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  height: 200px;
+  height: 20vh;
 }
 a{
   text-decoration: none;
@@ -11,5 +10,5 @@ a{
 .navbar-text{
   letter-spacing: 5px;
   font-weight: bold;
-  color: beige;
+  color: beige; 
 }
